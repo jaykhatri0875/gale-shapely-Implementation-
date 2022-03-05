@@ -1,2 +1,2 @@
 # gale-shapely-Implementation-
-Simple implementation of Gale shapely algorithm, used for match matching (basically everywhere). 
+Simple implementation of Gale shapely algorithm in python, used for match matching (basically everywhere). 
